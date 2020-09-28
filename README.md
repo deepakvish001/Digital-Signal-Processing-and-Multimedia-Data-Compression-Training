@@ -29,7 +29,7 @@ Digital signal processing lectures for computer science students.
 ### Lecture 21 - [The Laplace Transform]()
 ### Lecture 22 - [The Z-Transform]()
 
-<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/organizations-logos/textbook.jpg">
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 ## Textbooks
 
