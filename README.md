@@ -50,3 +50,7 @@ Digital signal processing lectures for computer science students.
 * ***Fundamentals of Digital Image and Video Processing*** by Northwestern University
 * ***Audio Signal Processing for Music Applications*** by Universitat Pompeu Fabra of Barcelona
 * ***Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital*** by Duke University
+
+<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## Youtube-Playlists
