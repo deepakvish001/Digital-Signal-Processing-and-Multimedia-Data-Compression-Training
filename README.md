@@ -1,3 +1,5 @@
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
+
 # Digital-Signal-Processing
 Digital signal processing lectures for computer science students.
 
