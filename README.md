@@ -21,7 +21,7 @@ Digital signal processing lectures for computer science students.
 ### Lecture 11 - [Continuous Fourier Transform]()
 ### Lecture 12 - [Applications of the CFT]()
 ### Lecture 13 - [Fourier Transform Properties]()
-### Lecture 14 - [Fast Fourier Transform]()
+### Lecture 14 - [Fast Fourier Transform (FFT)]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
