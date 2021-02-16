@@ -5,7 +5,7 @@ Digital signal processing lectures for computer science students.
 
 ## Part 1: Basics Digital Signal Processing `40H` 
 
-### Lecture 01 - [Complex Numbers]()
+### Lecture 01 - [Complex Analysis I]()
 ### Lecture 02 - [Sampling Process]()
 ### Lecture 03 - [Discrete Time Signals]()
 ### Lecture 04 - [Continuous Time Signals]()
@@ -16,12 +16,12 @@ Digital signal processing lectures for computer science students.
 
 ## Part 2: Fourier Series and Fourier Transform `40H` 
 
-### Lecture 09 - [Discrete Fourier Transform]()
-### Lecture 10 - [Applications of the DFT]()
-### Lecture 11 - [Continuous Fourier Transform]()
-### Lecture 12 - [Applications of the CFT]()
-### Lecture 13 - [Fourier Transform Properties]()
-### Lecture 14 - [Fast Fourier Transform (FFT)]()
+### Lecture 09 - [Complex Analysis II]()
+### Lecture 10 - [Fourier Transform Properties]()
+### Lecture 11 - [Discrete Fourier Transform]()
+### Lecture 12 - [Applications of the DFT]()
+### Lecture 13 - [Continuous Fourier Transform]()
+### Lecture 14 - [Applications of the CFT]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
