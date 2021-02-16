@@ -38,6 +38,7 @@ Digital signal processing lectures for computer science students.
 
 ## Coursera-Specializations
 
+* ***Numerical Methods for Engineers*** by The Hong Kong University of Science and Technology
 * ***Introduction to Complex Analysis*** by Wesleyan University
 * ***Digital Signal Processing Specialization*** by ecole polytechnique federale de lausanne
 * ***Vector Calculus for Engineers*** by The Hong Kong University of Science and Technology
