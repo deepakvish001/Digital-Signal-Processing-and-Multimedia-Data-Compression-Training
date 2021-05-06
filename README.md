@@ -3,7 +3,10 @@
 # Digital-Signal-Processing
 Digital signal processing lectures for computer science students.
 
-## Part 1: Basics Digital Signal Processing `40 hrs` 
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<br>
+
+## `Part 1` Basics Digital Signal Processing `40 hrs` 
 
 ### Lecture 01 - [Complex Analysis I]()
 <details>
@@ -93,7 +96,10 @@ Digital signal processing lectures for computer science students.
   - 
 </details>
 
-## Part 2: Fourier Series and Fourier Transform `40 hrs` 
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<br>
+
+## `Part 2` Fourier Series and Fourier Transform `40 hrs` 
 
 ### Lecture 09 - [Complex Analysis II]()
 <details>
