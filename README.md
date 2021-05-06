@@ -200,7 +200,7 @@ Digital signal processing lectures for computer science students.
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
-## Textbooks
+## `Textbooks`
 
 * ***Think DSP Digital Signal Processing in Python***, Allen B. Downey
 * ***The Essential Guide to Digital Signal Processing***, Richard Lyons and D. Fugal
@@ -211,7 +211,7 @@ Digital signal processing lectures for computer science students.
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## Coursera-Specializations
+## `Coursera-Specializations`
 
 * ***Numerical Methods for Engineers*** by The Hong Kong University of Science and Technology
 * ***Introduction to Complex Analysis*** by Wesleyan University
@@ -225,7 +225,7 @@ Digital signal processing lectures for computer science students.
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## YouTube-Playlists
+## `YouTube-Playlists`
 
 * 
 * 
