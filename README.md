@@ -1,27 +1,196 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
 
-# Digital-Signal-Processing `80H`
+# Digital-Signal-Processing
 Digital signal processing lectures for computer science students.
 
-## Part 1: Basics Digital Signal Processing `40H` 
+## Part 1: Basics Digital Signal Processing `40 hrs` 
 
 ### Lecture 01 - [Complex Analysis I]()
-### Lecture 02 - [Sampling Process]()
-### Lecture 03 - [Discrete Time Signals]()
-### Lecture 04 - [Continuous Time Signals]()
-### Lecture 05 - [Discrete Cosine Transform]()
-### Lecture 06 - [Continuous Cosine Transform]()
-### Lecture 07 - [Linear Time Invariant Systems]()
-### Lecture 08 - [Convolution and Properties]()
+<details>
+  <summary>Agenda</summary><br>
 
-## Part 2: Fourier Series and Fourier Transform `40H` 
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 02 - [Sampling Process]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 03 - [Discrete Time Signals]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 04 - [Continuous Time Signals]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 05 - [Discrete Cosine Transform]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 06 - [Continuous Cosine Transform]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 07 - [Linear Time Invariant Systems]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 08 - [Convolution and Properties]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+## Part 2: Fourier Series and Fourier Transform `40 hrs` 
 
 ### Lecture 09 - [Complex Analysis II]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### Lecture 10 - [Fourier Transform Properties]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### Lecture 11 - [Discrete Fourier Transform]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### Lecture 12 - [Applications of the DFT]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### Lecture 13 - [Continuous Fourier Transform]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### Lecture 14 - [Applications of the CFT]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<br>
+
+## `Assignments` `5 hrs`/`Assignment`
+
+### `Assignment 01` - 
+### `Assignment 02` - 
+### `Assignment 03` - 
+### `Assignment 04` - 
+### `Assignment 05` - 
+### `Assignment 06` - 
+### `Assignment 07` - 
+### `Assignment 08` - 
+### `Assignment 09` - 
+### `Assignment 10` - 
+
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<br>
+
+## `Educational-Projects` `10 hrs`/`Project`
+
+|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
+
+|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
@@ -52,6 +221,7 @@ Digital signal processing lectures for computer science students.
 
 ## YouTube-Playlists
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
-
-## Educational-Projects
+* 
+* 
+* 
+*
