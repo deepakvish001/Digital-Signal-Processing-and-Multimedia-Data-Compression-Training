@@ -1,0 +1,7 @@
+- Recognize Telephone Tone Digits
+- Recognize Musical Instrument from Audio
+- Remove Background Noise from a Voice Chat Signal
+- Detect Gender from Speech Signal
+- Recognize Animal from Audio (Cat vs Dog)
+- Sound Steganography
+- Morse Code Translator
