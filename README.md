@@ -172,6 +172,151 @@ Digital signal processing lectures for computer science students.
   - 
 </details>
 
+
+## `Part 3` Complex Techniques `30 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+
+### Lecture 15 - [Complex Analysis III]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 16 - [Fast Fourier Transform (FFT)]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 17 - [FFT Convolution and Correlation]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 18 - [FFT Digital Filter Design]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 19 - [Finite Impulse Response (FIR) Filters]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 20 - [Infinite Impulse Response (IIR) Filters]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
+<br>
+<br>
+
+## `Part 4` Digital Filters `30 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+
+### Lecture 21 - [Non-Recursive Filters I]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 22 - [Non-Recursive Filters II]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 23 - [Recursive Filters I]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 24 - [Recursive Filters II]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 25 - [Analog Filters]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### Lecture 26 - [Filter Comparison and Custom Filters]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
 <br>
 <br>
