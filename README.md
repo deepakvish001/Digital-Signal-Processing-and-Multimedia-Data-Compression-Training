@@ -1,5 +1,5 @@
 
-# Digital-Signal-Processing
+# Digital-Signal-Processing-and-Data-Compression-Training
 Digital signal processing lectures for computer science students.
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
