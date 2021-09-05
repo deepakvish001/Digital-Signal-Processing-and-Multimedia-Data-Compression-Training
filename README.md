@@ -1,4 +1,4 @@
-# Digital Signal Processing and Data Compression Training
+# Digital Signal Processing and Multimedia Data Compression Training
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/differential-equations.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-Digital Signal Processing and Data Compression Training for computer science students.
+Digital Signal Processing and Multimedia Data Compression Training for computer science students.
 
 ## :dart: `Training Summary`
 
